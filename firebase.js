@@ -14,7 +14,7 @@ const firebaseConfig = {
 
 const firebaseConfig2 = { // dongle2
 	
-
+};
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig2);
