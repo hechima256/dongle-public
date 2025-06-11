@@ -1,6 +1,19 @@
 # Dongle 📍
 
 位置情報でつながるリアルタイム SNS
+## 📸 アプリケーションスクリーンショット
+
+### メイン画面
+![メイン画面](assets/screenshots/main-screen.png "Dongleメイン画面")
+
+### 地図ビュー
+![地図ビュー](assets/screenshots/map-view.png "位置情報ベースのユーザー表示")
+
+### チャット機能
+![チャットルーム](assets/screenshots/chat-room.png "リアルタイムチャット")
+
+### プロフィール管理
+![プロフィール設定](assets/screenshots/profile-page.png "ユーザープロフィール管理")
 
 ## ⭐️ 主な機能
 
